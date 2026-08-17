@@ -1,0 +1,6 @@
+{
+  "name": "EventSync",
+  "description": "Real-time school event management mobile app for tracking programs, schedules, teachers, and public status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
